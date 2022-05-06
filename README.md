@@ -2,4 +2,4 @@
 Basic GUI App that works as an EVM
 
 
-This was my class 12 Python Computer Science project 2020.
+This was my class 11 Python Computer Science project 2019 batch of Kendriya Vidyalaya OF Dum Dum.
